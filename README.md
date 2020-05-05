@@ -1,2 +1,2 @@
 # Snake
-The simple game by Robert Heaton's tutorial
+The simple game based on Robert Heaton's tutorial
