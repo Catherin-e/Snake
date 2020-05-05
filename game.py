@@ -1,6 +1,8 @@
 
 class Snake():
+  pass
 class Apple():
+  pass
 
 class Game(): 
   def __init__(self, height, width):
