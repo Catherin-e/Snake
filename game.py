@@ -1,3 +1,7 @@
+
+class Snake():
+class Apple():
+
 class Game(): 
   def __init__(self, height, width):
     self.height = height
